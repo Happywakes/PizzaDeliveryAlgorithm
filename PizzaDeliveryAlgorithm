@@ -1,5 +1,7 @@
-Call Domino's
-Order pizza
-Give credit card info 
-wait
-recieve pizzaIf we did not tip on the phone, then 
+1. Call Domino's
+    a. If they don't answer, go back to 1. otherwise, continue
+2. Order pizza
+3. Give credit card info 
+4. wait
+5. recieve pizza
+6. If we did not tip on the phone, then tip driver. 
